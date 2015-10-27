@@ -6,9 +6,9 @@ Walkthrough of all the app stories:
 
 ![ScreenShot](https://github.com/doubleola/iOS_4Designers_HW3/blob/master/ola_mailbox_assignment.gif)
 
-# What does the app do?
+## What does the app do?
 
-##	On dragging the message left…
+###	On dragging the message left…
 - [X] Initially, the revealed background color should be gray.
 - [X] As the reschedule icon is revealed, it should start semi-transparent and become fully opaque. If released at this point, the message should return to its initial position.
 - [X] After 60 pts, the later icon should start moving with the translation and the background should change to yellow.
@@ -17,7 +17,7 @@ Walkthrough of all the app stories:
 - [X] Upon release, the message should continue to reveal the brown background. When the animation it complete, it should show the list options.
 - [X] User can tap to dismissing the reschedule or list options. After the reschedule or list options are dismissed, you should see the message finish the hide animation.
 
-## On dragging the message right…
+### On dragging the message right…
 - [X] Initially, the revealed background color should be gray.
 - [X] As the archive icon is revealed, it should start semi-transparent and become fully opaque. If released at this point, the message should return to its initial position.
 - [X]	After 60 pts, the archive icon should start moving with the translation and the background should change to green.
@@ -25,7 +25,7 @@ Walkthrough of all the app stories:
 - [X]	After 260 pts, the icon should change to the delete icon and the background color should change to red.
 - [X]	Upon release, the message should continue to reveal the red background. When the animation it complete, it should hide the message.
 
-## Optional 
+### Optional 
 - [ ] Optional: Panning from the edge should reveal the menu
 - [ ] Optional: If the menu is being revealed when the user lifts their finger, it should continue revealing.
 - [ ] Optional: If the menu is being hidden when the user lifts their finger, it should continue hiding.
