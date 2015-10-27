@@ -4,7 +4,7 @@ Time: I spent around 10-11 hours on the exercise
 
 Walkthrough of all the app stories:
 
-![ScreenShot](https://github.com/doubleola/iOS4_Designers_HW2/blob/master/ola_mailbox_assignment.gif)
+![ScreenShot](https://github.com/doubleola/iOS_4Designers_HW3/blob/master/ola_mailbox_assignment.gif)
 
 # What does the app do?
 
