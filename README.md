@@ -10,7 +10,6 @@ Walkthrough of all the app stories:
 
 ##	On dragging the message left…
 - [X] Initially, the revealed background color should be gray.
-- [ ] Optional: Photo tiles move with scrolling
 - [X] As the reschedule icon is revealed, it should start semi-transparent and become fully opaque. If released at this point, the message should return to its initial position.
 - [X] After 60 pts, the later icon should start moving with the translation and the background should change to yellow.
 - [X] Upon release, the message should continue to reveal the yellow background. When the animation it complete, it should show the reschedule options.
