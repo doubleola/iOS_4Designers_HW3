@@ -25,7 +25,7 @@ Walkthrough of all the app stories:
 - [X]	After 260 pts, the icon should change to the delete icon and the background color should change to red.
 - [X]	Upon release, the message should continue to reveal the red background. When the animation it complete, it should hide the message.
 
-## On dragging the message right…
+## Optional 
 - [ ] Optional: Panning from the edge should reveal the menu
 - [ ] Optional: If the menu is being revealed when the user lifts their finger, it should continue revealing.
 - [ ] Optional: If the menu is being hidden when the user lifts their finger, it should continue hiding.
