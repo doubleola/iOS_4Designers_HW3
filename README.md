@@ -1,6 +1,6 @@
 # iOS_4Designers_HW3
 
-Time: I spent around 10-11 hours on the exercise
+Time: I spent around 15-20 hours on the exercise
 
 Walkthrough of all the app stories:
 
